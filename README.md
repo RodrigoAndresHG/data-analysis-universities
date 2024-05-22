@@ -16,7 +16,7 @@ To determine the Return on Investment (ROI) of various university careers.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/tu-usuario/data-analysis-universities.git
+    git clone https://github.com/RodrigoAndresHG/data-analysis-universities.git
     ```
 2. Install the required dependencies:
     ```sh
